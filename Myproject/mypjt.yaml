@@ -1,4 +1,4 @@
-path: /content/datasets/Myproject # dataset root dir
+path: /content/datasets/myproject # dataset root dir
 train: images/train # 내가 라벨링에 사용한 이미지들을 넣을 폴더
 val: images/train # 혹시 validation셋이 있다면 val로, 아니라면 train으로
 
